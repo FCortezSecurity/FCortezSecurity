@@ -19,31 +19,7 @@
 
 I'm early in my cybersecurity career, currently focused on breaking into **Security Engineering / Cloud Security**. Most of what's here comes from hands-on labs, self-directed projects, and a lot of trial and error rather than years on the job — I learn by building real things end-to-end and pushing past the tutorial.
 
-## 📌 Pinned / Top projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[meridian-pay-baseline](https://github.com/FCortezSecurity/meridian-pay-baseline)**
-Designed, implemented, and validated AWS security guardrails for a fictional payments company — closed a real privilege-escalation path and confirmed the fix on a live AWS account.
-
-</td>
-<td width="50%" valign="top">
-
-**[openhound-aws](https://github.com/FCortezSecurity/openhound-aws)**
-AWS IAM attack-path discovery tool that maps identities, roles, and trust relationships to surface privilege-escalation chains, in the spirit of BloodHound's OpenGraph.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[detection-engineering-cicd](https://github.com/FCortezSecurity/detection-engineering-cicd)**
-An automated pipeline that simulates real MITRE ATT&CK techniques and validates custom Wazuh detection rules against them, CI/CD-style.
-
-</td>
-<td width="50%" valign="top">
 
 🎓 **Certifications**
 CompTIA Security+ (SY0-701) · CompTIA PenTest+ (PT0-003) · A.A.S. in Information Assurance, Laredo College
