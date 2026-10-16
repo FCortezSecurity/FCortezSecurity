@@ -85,3 +85,7 @@ A Windows endpoint detection and incident response lab using Sysmon and Splunk. 
 ---
 
 *My earlier AWS projects (IAM audit, CloudTrail detection, CloudTrail + Splunk lab) are archived and were merged into cloud-security-detection-suite.*
+
+## 📫 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Fernando%20Cortez%20Jr-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-cortez-jr-a3529a313)
