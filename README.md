@@ -42,6 +42,29 @@
 
 ---
 
+## 🧠 Exploring: AI Security
+
+AI agents are getting access to real tools and real data, and that opens up new attack surface. I'm exploring how to secure them from the defensive side:
+
+- How prompt injection and tool poisoning work against LLM agents that use MCP tools
+- Which defenses actually hold up, measured by both security and utility so protection doesn't break usefulness
+- How classic security thinking (detection, least privilege, policy gates) carries over to AI systems
+
+My hands-on starting point is [mcp-security-lab](https://github.com/FCortezSecurity/mcp-security-lab).
+
+## 📚 How I Learn
+
+I'm building skills in the open, project by project. My ideas and learning come from:
+
+- 🎥 YouTube walkthroughs and tutorials
+- 💬 Reddit communities for cybersecurity careers and home labs
+- 📱 TikTok for project ideas and quick concepts
+- 🤖 Hands-on with AI tools (LLM assistants, agents, MCP) to learn how they work and how they can be attacked, which is what drew me into AI security
+
+Every repo is a real build with documented results, and I keep adding to it as I learn.
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🤖 [mcp-security-lab](https://github.com/FCortezSecurity/mcp-security-lab)
